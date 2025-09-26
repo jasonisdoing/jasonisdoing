@@ -1,18 +1,18 @@
-### Hi there 👋
+## 👋 Hi, I’m Jason
 
-I am a software developer and a dog trainer.
+Ex-software developer turned **full-time investor** 🚀  
+I’m building my own **ETF investment tool** to automate portfolio management, backtesting, and signal generation.
 
-<!--
-**jasonisdoing/jasonisdoing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔎 What I’m working on
+- Developing **Momentum ETF** – a personal ETF & stock rotation system  
+- Implementing **trend-following & momentum strategies** inspired by Richard Donchian, Larry Hite, and Ed Seykota. 
+- Automating **data pipelines** for US, AU, and KR markets with Python
+- Real-time **Slack notifications** for signals, trades, and portfolio updates  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Python** (pandas, yfinance, PyKRX, APScheduler, Streamlit)  
+- **Databases**: MongoDB  
+- **Cloud/CI/CD**: AWS Lightsail, GitHub Actions, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goal
+Leverage my technical background to create **smarter, automated investing tools** that help me manage risk and grow wealth systematically.
