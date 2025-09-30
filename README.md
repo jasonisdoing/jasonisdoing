@@ -6,7 +6,7 @@ I’m building my own **ETF investment tool** to automate portfolio management, 
 ### 🔎 What I’m working on
 - Developing **Momentum ETF** – a personal ETF & stock rotation system  
 - Implementing **trend-following & momentum strategies** inspired by Richard Donchian, Larry Hite, and Ed Seykota. 
-- Automating **data pipelines** for KR, AU, and crypto markets with Python
+- Automating **data pipelines** for KR, AU, and US markets with Python
 - Real-time **Slack notifications** for signals, trades, and portfolio updates  
 
 ### 🛠️ Tech Stack
